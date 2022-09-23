@@ -10,4 +10,5 @@
 
 Vs code: Para ataualizar aperta Ctrl+S e Ctrl+R ou F5 na pág
 
-Tarefa: Cria um novo repositório e escreve um texto 4 parágrafos
+Para criar repositório: Nem repositorio, ADD file, MIT license
+
