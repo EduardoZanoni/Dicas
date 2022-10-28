@@ -34,3 +34,4 @@ div class="nome"
 no css chama a class--> .nome{}
 <img class="nome para o css" src="como salvou no pc" alt="descrição caso não abra">
     <H1> PARA SALVAR </h1>
+    Abre repositorio e trasnfere arquivos, imagens, audios tudo
