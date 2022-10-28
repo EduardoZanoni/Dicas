@@ -11,7 +11,7 @@
 Vs code: Para ataualizar aperta Ctrl+S e Ctrl+R ou F5 na pág
 
 Para criar repositório: Nem repositorio, ADD file, MIT license
-Para criar site <br>
+    <h1>Para criar site </h1><br>
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -33,3 +33,4 @@ Para criar site <br>
 div class="nome"
 no css chama a class--> .nome{}
 <img class="nome para o css" src="como salvou no pc" alt="descrição caso não abra">
+    <H1> PARA SALVAR </h1>
