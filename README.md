@@ -6,13 +6,30 @@
 
 ### Como colocar comentário
 
-<!-- NÃO APAECE -->
+<!-- NÃO APArECE -->
 
 Vs code: Para ataualizar aperta Ctrl+S e Ctrl+R ou F5 na pág
 
 Para criar repositório: Nem repositorio, ADD file, MIT license
+Para criar site <br>
 
-<doctype> e enter
-<html> e joga o outro no final
-<head> e enter </head>
-<body> e coloca texzto dentreo dele</body>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Reciclagem do Vidro</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body> 
+<header> cabeçalho fixo </header>
+<main> texto e tudo </main>
+<footer> rodapé fixo </footer>
+
+</body>
+</html>
+
+div class="nome"
+no css chama a class--> .nome{}
+<img class="nome para o css" src="como salvou no pc" alt="descrição caso não abra">
